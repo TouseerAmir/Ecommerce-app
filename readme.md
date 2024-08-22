@@ -1,0 +1,1 @@
+This is a Ecommerce demo project in which i have to create a demo Ecommerce app firt the backend of an ecommerce app with nodejs then later on connect it with front end using react js and also upload it on my github account publicaly
